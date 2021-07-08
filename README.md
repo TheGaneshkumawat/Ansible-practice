@@ -2,7 +2,7 @@
 
 **Setup Ansible on Ubuntu**
 
-On Master
+######On Master
 sudo apt-get update
 sudo apt install software-properties-common
 
@@ -18,6 +18,6 @@ ssh-keygen
 
 
 
-On hosts
+######On hosts
 sudo apt-get update
 sudo apt-get install python
