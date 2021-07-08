@@ -2,25 +2,15 @@
 
 **Setup Ansible on Ubuntu**
 
-###### On Master
+###### On Master <br />
+sudo apt-get update <br />
+sudo apt install software-properties-common <br />
+sudo apt-add-repository ppa:ansible/ansible <br />
+sudo apt update <br />
+sudo apt install ansible <br />
+ssh ubuntu@13.233.42.39 <br />
+ssh-keygen <br />
 
-sudo apt-get update
-
-sudo apt install software-properties-common
-
-sudo apt-add-repository ppa:ansible/ansible
-
-sudo apt update
-
-sudo apt install ansible
-
-ssh ubuntu@13.233.42.39
-
-ssh-keygen
-
-
-###### On hosts
-
-sudo apt-get update
-
-sudo apt-get install python
+###### On hosts <br />
+sudo apt-get update <br />
+sudo apt-get install python 
