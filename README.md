@@ -1,7 +1,6 @@
 # Ansible-practice
 
-**Setup Ansible on Ubuntu**
-
+##Setup Ansible on Ubuntu <br />
 ###### On Master <br />
 sudo apt-get update <br />
 sudo apt install software-properties-common <br />
