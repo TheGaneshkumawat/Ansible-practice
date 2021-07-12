@@ -16,3 +16,5 @@ sudo apt-get install python
 
 ###### Step
 All the yaml files present in this repository contains Problem and Solution in same file.
+
+https://tomoconnor.eu/blogish/getting-started-ansible/#.VlVl7bcrLcs
