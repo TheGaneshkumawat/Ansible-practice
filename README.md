@@ -14,5 +14,5 @@ ssh-keygen <br />
 sudo apt-get update <br />
 sudo apt-get install python 
 
-###### Steps
+###### Step
 All the yaml files present in this repository contains Problem and Solution in same file.
