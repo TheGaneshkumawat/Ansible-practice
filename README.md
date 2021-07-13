@@ -20,4 +20,5 @@ All the yaml files present in this repository contains Problem and Solution in s
 ###### Links
 https://tomoconnor.eu/blogish/getting-started-ansible/#.VlVl7bcrLcs <br />
 https://galaxy.ansible.com/ <br />
-https://github.com/leucos/ansible-tuto
+https://github.com/leucos/ansible-tuto <br />
+https://github.com/TheGaneshkumawat/ansible-interactive-tutorial
